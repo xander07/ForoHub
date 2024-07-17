@@ -18,6 +18,7 @@ import java.time.ZoneOffset;
 public class TokenService {
 
     private User user;
+
     @Autowired
     private UserRepository userRepository;
 
